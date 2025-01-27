@@ -6,7 +6,7 @@
 
 
 # 💻 Tech Stack:
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![html](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html&logoColor=ffdd54)  ![CSS](https://img.shields.io/badge/css-3670A0?style=for-the-badge&logo=css&logoColor=ffdd54)  ![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![html](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html&logoColor=white)  ![CSS](https://img.shields.io/badge/css-3670A0?style=for-the-badge&logo=css&logoColor=white)  ![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=Black)
 
 # 📊 GitHub Stats:
 <div align="center">
